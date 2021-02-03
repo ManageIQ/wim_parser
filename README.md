@@ -1,5 +1,10 @@
 # WimParser
 
+[![Gem Version](https://badge.fury.io/rb/wim_parser.svg)](http://badge.fury.io/rb/wim_parser)
+[![Build Status](https://travis-ci.com/ManageIQ/wim_parser.svg)](https://travis-ci.com/ManageIQ/wim_parser)
+[![Maintainability](https://api.codeclimate.com/v1/badges/85bd8d94d5799a9fe2f4/maintainability)](https://codeclimate.com/github/ManageIQ/wim_parser/maintainability)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/85bd8d94d5799a9fe2f4/test_coverage)](https://codeclimate.com/github/ManageIQ/wim_parser/test_coverage)
+
 Parser for the Windows Image Format (WIM)
 
 ## Installation
