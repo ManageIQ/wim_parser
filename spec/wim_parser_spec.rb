@@ -1,9 +1,8 @@
 # encoding: US-ASCII
 
-require 'util/win32/wim_parser'
 require 'time'
 
-describe WimParser do
+RSpec.describe WimParser do
   WIM_PARSER_DATA_DIR = File.expand_path(File.join(File.dirname(__FILE__), 'data'))
 
   before(:each) do
