@@ -2,8 +2,6 @@
 
 [![Gem Version](https://badge.fury.io/rb/wim_parser.svg)](http://badge.fury.io/rb/wim_parser)
 [![CI](https://github.com/ManageIQ/wim_parser/actions/workflows/ci.yaml/badge.svg)](https://github.com/ManageIQ/wim_parser/actions/workflows/ci.yaml)
-[![Code Climate](https://codeclimate.com/github/ManageIQ/wim_parser.svg)](https://codeclimate.com/github/ManageIQ/wim_parser)
-[![Test Coverage](https://codeclimate.com/github/ManageIQ/wim_parser/badges/coverage.svg)](https://codeclimate.com/github/ManageIQ/wim_parser/coverage)
 
 Parser for the Windows Image Format (WIM)
 
